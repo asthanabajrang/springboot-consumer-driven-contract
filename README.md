@@ -1,4 +1,4 @@
-# springboot-consumer-driven-contract
+# Spring Boot Cloud Consumer Driven Contract
 Sample application on spring boot consumer driven contract 
 
 It has two sub projects
